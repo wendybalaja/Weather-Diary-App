@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Minders
+
+  Created by Arthur Roolfs on 10/31/18.
+  Copyright © 2018 University of Rochester. All rights reserved.
+*/
+
+"str_empty"                              = "No reminders left!";
+"str_random"                             = "Random Reminder";
+
+
+"str_prompt"                            = "What would you like to be reminded about?";
+"str_save"                              = "Save";
+"str_cancel"                            = "Cancel";
+"str_done"                              = "Done";
+
